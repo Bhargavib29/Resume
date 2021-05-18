@@ -1,60 +1,65 @@
 # Resume
-Resume
 
-BhargaviBatchu
+## *BhargaviBatchu*
 ==================
 
-## Personal Details
--Name:Batchu Bhargavi<br>
--Mail Id:bhargavibatchu521@gmail.com<br>
+### Personal Details
+
+-Name: Batchu Bhargavi<br>
+-Mail Id: bhargavibatchu521@gmail.com<br>
 -Phone : +91 9381233314<br>
 -Address : vijayawada<br>
 
 ## Education Details:
 
-# B-Tech
--College Name:DVR & Dr.HS MIC College Of Technology<br>
+**B-Tech**
+
+-College Name:__DVR & Dr.HS MIC College Of Technology__<br>
 -Branch : Information Technology<br>
 -Year Of Study : 2018 -2022<br>
 -CGPA: 8.71<br>
--Address : Vijayawada<br>
+-Address : Kanchikacheerla<br>
 
-# Intermediate
--College Name:KBN College<br>
+## Intermediate
+-College Name:__KBN College__<br>
 -Branch : MPC<br>
 -Year Of Study : 2016 -2018<br>
 -Percentage: 92.9<br>
--Address : Vijayawada
+-Address : Vijayawada<br>
 
-# SSC
--School Name:Bhashyam Public School
--GPA:9.2
--Address : Vijayawada
+## SSC
+-School Name: __Bhashyam Public School__<br>
+-Year of Study:2016<br>
+-GPA:9.2<br>
+-Address : Vijayawada<br>
 
-# Skills
-Python - 80%
+## Skills
+-Python - 80%
 
-C Programming - 70%
+-C Programming - 90%
 
-Java - 70%
+-Java - 70%
 
-DBMS - 80%
+-DBMS - 80%
 
-R language - 100%
+-HTML - 80%
 
-HTML - 90%
+## Goals
+I want to be a Software Developer in Java
 
-# Goals
-I want to be a Software Developer in HTML
-
-# HOBBIES
--Readng Books
+## HOBBIES
+-Readng Novels&Books
 
 -listening to music
 
--playing carroms
 
-### Strengths
+## Strengths & Weaknesses
 
-Hardwork
-Logical Thinking
+# Strengths
+
+-Hardwork
+
+-Logical Thinking
+
+# Weaknesses
+-Cannot say no to any work
