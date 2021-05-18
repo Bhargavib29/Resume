@@ -63,3 +63,5 @@ I want to be a Software Developer in Java
 
 # Weaknesses
 - Cannot say no to any work
+## Projects
+- Google Assistent
